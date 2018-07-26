@@ -8,6 +8,14 @@ Many 'Breakpad' sources are hard to download or 'No such file or dictionary' alw
 
 I add src/third-party/lss to official repo and this must compiled by gcc4.8+.
 
+You can easily compile Breakpad by following commands now:
+
+```sh
+./configure
+make
+make install
+``` 
+
 **This repo is updated on 2018/7/16**
 
 ## The following is the official README

@@ -1,5 +1,15 @@
 # Breakpad
 
+## Getting started (Added by Miaia)
+
+We all know that google is on the GFW list, and many of the breakpad resourses are unavailable on mainland.
+Many 'Breakpad' sources are hard to download or 'No such file or dictionary' always bothers you, and makes this 'Breakpad' hard to compile on your own machine.
+
+I add src/third-party/lss to official repo and this must compiled by gcc4.8+.
+**This repo is updated on 2018/7/16**
+
+## The following is the official README
+
 Breakpad is a set of client and server components which implement a
 crash-reporting system.
 
